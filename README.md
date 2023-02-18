@@ -1,3 +1,7 @@
+## Custom provider
+Click [here](https://github.com/itschip/next-auth-vipps-example/blob/main/src/server/auth.ts#L53) to see Vipps provider integration
+
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
